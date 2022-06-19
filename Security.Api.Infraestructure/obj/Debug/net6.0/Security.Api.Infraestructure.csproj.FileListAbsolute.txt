@@ -1,0 +1,15 @@
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\bin\Debug\net6.0\Security.Api.Infraestructure.deps.json
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\bin\Debug\net6.0\Security.Api.Infraestructure.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\bin\Debug\net6.0\Security.Api.Infraestructure.pdb
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\Security.Api.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\Security.Api.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\Security.Api.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\Security.Api.Infraestructure.AssemblyInfo.cs
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\Security.Api.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\Security.Api.Infraestructure.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\refint\Security.Api.Infraestructure.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\Security.Api.Infraestructure.pdb
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\ref\Security.Api.Infraestructure.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\bin\Debug\net6.0\Security.Api.Domain.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\bin\Debug\net6.0\Security.Api.Domain.pdb
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Infraestructure\obj\Debug\net6.0\Security.Api.Infraestructure.csproj.CopyComplete

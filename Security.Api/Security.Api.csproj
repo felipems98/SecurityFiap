@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>ab60325d-d22e-4939-bd9b-4ad1b720abc0</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+	  <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.6" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Security.Api.Application\Security.Api.Application.csproj" />
+    <ProjectReference Include="..\Security.Api.Domain\Security.Api.Domain.csproj" />
+    <ProjectReference Include="..\Security.Api.Infraestructure\Security.Api.Infraestructure.csproj" />
+  </ItemGroup>
+
+</Project>

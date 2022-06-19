@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Infraestructure\\Security.Api.Infraestructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Domain\\Security.Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Domain\\Security.Api.Domain.csproj",
+        "projectName": "Security.Api.Domain",
+        "projectPath": "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Domain\\Security.Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\felipe.moreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felipe.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Infraestructure\\Security.Api.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Infraestructure\\Security.Api.Infraestructure.csproj",
+        "projectName": "Security.Api.Infraestructure",
+        "projectPath": "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Infraestructure\\Security.Api.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\felipe.moreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felipe.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Domain\\Security.Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\felipe.moreno\\Documents\\projetos\\Security.Api\\Security.Api\\Security.Api.Domain\\Security.Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

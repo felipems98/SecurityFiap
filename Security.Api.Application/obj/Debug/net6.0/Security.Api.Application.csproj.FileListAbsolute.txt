@@ -1,0 +1,17 @@
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\bin\Debug\net6.0\Security.Api.Application.deps.json
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\bin\Debug\net6.0\Security.Api.Application.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\bin\Debug\net6.0\Security.Api.Application.pdb
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\bin\Debug\net6.0\Security.Api.Domain.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\bin\Debug\net6.0\Security.Api.Domain.pdb
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\Security.Api.Application.csproj.AssemblyReference.cache
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\Security.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\Security.Api.Application.AssemblyInfoInputs.cache
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\Security.Api.Application.AssemblyInfo.cs
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\Security.Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\Security.Api.Application.csproj.CopyComplete
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\Security.Api.Application.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\refint\Security.Api.Application.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\Security.Api.Application.pdb
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\obj\Debug\net6.0\ref\Security.Api.Application.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\bin\Debug\net6.0\Security.Api.Infraestructure.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api.Application\bin\Debug\net6.0\Security.Api.Infraestructure.pdb
