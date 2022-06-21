@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Options;
 using Security.Api.Domain.Dto;
 using Security.Api.Application;
+using Security.Api.Application.AuthToken;
 
 namespace Security.Api.Controllers
 {
@@ -11,10 +10,17 @@ namespace Security.Api.Controllers
     public class SecurityController : ControllerBase
     {
         [HttpPost]
-        public IActionResult Login(LoginRequestDto login)
+        public IActionResult Login(LoginRequestDto login, [FromHeader] string Authorization )
         {
+            
             SecurityService _securityService = new SecurityService();
-            var ret = _securityService.ValidateLogin(login);
+            BearerTokenValidation _authService = new BearerTokenValidation();
+            if (!_authService.MockValidateToken(Authorization))
+            {
+                return Unauthorized();
+            }
+
+                var ret = _securityService.ValidateLogin(login);
             return Ok(ret);
         }
 

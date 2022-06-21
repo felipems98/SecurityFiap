@@ -250,3 +250,8 @@ C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api
 C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api\bin\Debug\net6.0\Security.Api.Application.dll
 C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api\bin\Debug\net6.0\Security.Api.Application.pdb
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\felipe.moreno\Documents\projetos\Security.Api\Security.Api\Security.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

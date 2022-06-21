@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.19.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Security.Api.Domain\Security.Api.Domain.csproj" />
     <ProjectReference Include="..\Security.Api.Infraestructure\Security.Api.Infraestructure.csproj" />
   </ItemGroup>

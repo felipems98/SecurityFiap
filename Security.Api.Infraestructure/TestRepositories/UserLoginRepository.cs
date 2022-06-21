@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Security.Api.Domain.Models;
+﻿using Security.Api.Domain.Models;
 
 namespace Security.Api.Infraestructure.Repositories
 {

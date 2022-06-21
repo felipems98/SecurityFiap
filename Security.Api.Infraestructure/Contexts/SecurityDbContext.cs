@@ -29,11 +29,6 @@ namespace Security.Api.Infraestructure.Contexts
                 modelBuilder.ApplyConfiguration(configInstance);
             }
         }
-
-
-
-
-
         public string GetConnectionString()
         {
             return null;
